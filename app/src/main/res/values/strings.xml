@@ -16,4 +16,5 @@
     <string name="_multi">*</string>
     <string name="_share">/</string>
     <string name="_equals">=</string>
+    <string name="_erase">C</string>
 </resources>
