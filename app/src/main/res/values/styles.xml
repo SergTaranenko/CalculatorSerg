@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <!-- Base application theme. -->
+        <style name="SergTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        </style>
+            <style name="ButtonCals" parent="@style/Widget.AppCompat.Button.Borderless">
+                <item name="android:textSize">@dimen/button_text</item>
+                <item name="android:textColor">@color/button_text</item>
+        </style>
+</resources>
