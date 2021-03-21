@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Digital Keyboard</string>
+    <string name="app_name">Калькулятор</string>
     <string name="_1">1</string>
     <string name="_2">2</string>
     <string name="_3">3</string>
@@ -10,11 +10,16 @@
     <string name="_8">8</string>
     <string name="_9">9</string>
     <string name="_0">0</string>
+    <string name="_point">.</string>
+    <string name="_multi">x</string>
+    <string name="_share">/</string>
     <string name="_plus">+</string>
     <string name="_minus">-</string>
-    <string name="_multi">*</string>
-    <string name="_share">/</string>
     <string name="_equals">=</string>
-    <string name="_erase">C</string>
+    <string name="theme_mode">Выбрать свет или тьму</string>
+    <string name="tools_text_text_view">0.0</string>
+    <string name="settings">Настройки</string>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="textSize">42sp</dimen>
+    <string name="res">%f</string>
 </resources>
-
